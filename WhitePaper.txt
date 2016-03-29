@@ -1,0 +1,9 @@
+I spend way too much time playing simple board games like Checkers, Reversi, and Connect Four, with deplorable win/lose/draw stats.
+
+I am unemployed at this writing and would like to spend some of my time learning a managed programming language.
+
+To marry these two situations, I would like to write an application that builds game graphs to improve my win/lose/draw stats.  The games will be board games consting of squares with two players.
+
+I see three major obstacles to this end, processing speed, memory, and large data sets.  I have a spare machine leftover from my last contract which can run for weeks undisturbed and there are several FOSS databases out there that claim to handle large data sets with ease.  Given that I am going to try to solve some complete games I anticipate that I will have to settle for smaller board sizes since the larger boards will likely require more resources than I have available.
+
+The desired result is a game graph that will allow an application to predict the outcome of every possible move for every possible board situation.  If I can build a complete data set for a full size board for Connect Four or Checkers I will consider this venture a success.

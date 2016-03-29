@@ -1,0 +1,10 @@
+The application should be extensible, allowing for additional games and modifications to existing games.
+
+The application should allow for several board sizes, not restricted to square boards, Checkers on a 5 X 6 board for example.
+
+The applicaton should allow for variations in the game.  Connect Four becomes Connect Three for example.  This should be done with a GUI.
+
+The application should allow the user to look at the game in progress in a GUI but sample rates should be flexible to allow for favoring speed.
+
+The application should build a permanent game graph data set for each game variation, recording the best prognosis for every move.  If there is a winning move available for any board situation, then it will be available by querying the data set.
+
