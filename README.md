@@ -19,7 +19,7 @@ Use the application to analyze difficulty and fairness of board games.
 5. Submit a pull request
 
 ## History
-I spend way too much time playing simple board games like Checkers, Reversi, and Connect Four, with deplorable win/lose/draw stats.
+I spend too much time playing simple board games like Checkers, Reversi, and Connect Four, with deplorable win/lose/draw stats.
 I am unemployed at this writing and would like to spend some of my time learning a managed programming language.
 ## Credits
 Greg Blair.
